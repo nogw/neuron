@@ -2,6 +2,10 @@
 
 ## Links
 
+- [Designing with types: Making illegal states unrepresentable](https://fsharpforfunandprofit.com/posts/designing-with-types-making-illegal-states-unrepresentable/)
+
+---
+
 - [The appeal of bidirectional type-checking](https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html)
 - [Bi-directional type inference (Hindley-Milner)](https://eli.thegreenplace.net/2018/type-inference/)
 - [Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism](https://www.cl.cam.ac.uk/~nk480/bidir.pdf)
