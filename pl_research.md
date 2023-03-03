@@ -3,6 +3,7 @@ Links
 ## General
 
 - [Locally Nameless](https://boarders.github.io/posts/locally-nameless.html)
+- [Empirical PL](https://danluu.com/empirical-pl/)
 
 ## FP related
 

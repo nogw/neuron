@@ -1,5 +1,9 @@
 # Type Theory
 
+## Books
+
+- [Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
+
 ## Links
 
 - [Designing with types: Making illegal states unrepresentable](https://fsharpforfunandprofit.com/posts/designing-with-types-making-illegal-states-unrepresentable/)
