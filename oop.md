@@ -6,7 +6,7 @@
 - [A polyglot's guide to multiple dispatch](https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/#:~:text=The%20decision%20which%20function%20to,runtime%20types%20of%20multiple%20objects.)
 - [Traits - Composable Units of Behavior](https://scg.unibe.ch/research/traits)
 - [The diamong problem](https://en.wikipedia.org/wiki/Multiple_inheritance#The_diamond_problem)
-- [Composable decorators vs. Imperative Utility Methods](https://www.yegor256.com/2015/02/26/composable-decorators.html)
+- [Prototypes: Object-Orientation, Functionally](http://webyrd.net/scheme_workshop_2021/scheme2021-final91.pdf)
 
 ### Smalltalk
 
