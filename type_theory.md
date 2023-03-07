@@ -16,6 +16,7 @@
 - [Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism](https://www.cl.cam.ac.uk/~nk480/bidir.pdf)
 - [(Reddit) Linear Types or Affine Types?](https://www.reddit.com/r/ProgrammingLanguages/comments/6sq6nv/linear_or_affine_types/)
 - [Basic building blocks of dependent type theory](https://www.lesswrong.com/s/xoJgtn7jYzXNGNveS/p/ccbsYSpTcTqXwukH8)
+- [Basic Polymorphic Typechecking](http://lucacardelli.name/Papers/BasicTypechecking.pdf)
 
 ---
 
