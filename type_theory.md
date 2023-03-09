@@ -25,5 +25,7 @@
 
 ---
 
+- [The Essence of ML Type Inference](http://pauillac.inria.fr/~fpottier/publis/emlti-final.pdf)
+- [Hindley-Milner Elaboration in Applicative Style](http://gallium.inria.fr/~fpottier/publis/fpottier-elaboration.pdf)
 - [Mark P. Jones. Qualified Types: Theory and Practice. PhD thesis](https://www.cs.ox.ac.uk/files/3432/PRG106.pdf)
 - [Intuitionistic Type Theory](https://www.csie.ntu.edu.tw/~b94087/ITT.pdf)
