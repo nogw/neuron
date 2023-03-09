@@ -2,6 +2,8 @@ Links
 
 ## General
 
+- [Don’t Mention Equality!](https://existentialtype.wordpress.com/2011/03/15/dont-mention-equality/)
+- [Boolean blindness](https://existentialtype.wordpress.com/2011/03/15/boolean-blindness/)
 - [Locally Nameless](https://boarders.github.io/posts/locally-nameless.html)
 - [Empirical PL](https://danluu.com/empirical-pl/)
 
