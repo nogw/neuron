@@ -11,6 +11,7 @@ A Hybrid Approach to Safe Explicit Memory Management](https://citeseerx.ist.psu.
 
 ### FP related
 
+- [Xavier Leroy, Slides about compilation in fp](https://xavierleroy.org/talks/compilation-agay.pdf)
 - [A Nanopass Framework](https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf)
 - [Compiling with Continuations to LLVM](https://arxiv.org/pdf/1805.08842.pdf)
 - [SSA is Functional Programming](https://www.cs.princeton.edu/~appel/papers/ssafun.pdf)
