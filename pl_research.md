@@ -23,6 +23,7 @@ Links
 - [A Multivalued Language with a Dependent Type System](http://www.leafpetersen.com/leaf/publications/dtp2013/lambda-aleph-overview.pdf)
 - [Compiling Lambda Calculus to LLVM](https://compiler.club/compiling-lambda-calculus/)
 - [Warnings for pattern matching](http://moscova.inria.fr/~maranget/papers/warn/index.html)
+- [The Case for Pattern Matching](https://alan-j-hu.github.io/writing/pattern-matching.html)
 
 ## Interesting 
 
