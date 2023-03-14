@@ -20,6 +20,7 @@
 - [System F-omega with Equirecursive Types for Datatype-Generic Programming](https://ps.informatik.uni-tuebingen.de/research/functors/equirecursion-fomega-popl16.pdf)
 - [Fixed Points of Type Constructors and Primitive Recursion](https://www.cse.chalmers.se/~abela/csl04final.pdf)
 - [Inductive types and type constraints in the second-order lambda calculus*](https://core.ac.uk/download/pdf/81989173.pdf)
+- [Self Types for Dependently Typed Lambda Encodings](https://homepage.divms.uiowa.edu/~astump/papers/fu-stump-rta-tlca-14.pdf)
 
 ---
 
