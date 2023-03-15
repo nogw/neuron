@@ -10,6 +10,7 @@
 
 ---
 
+- [Fun with Phantom types](https://www.cs.ox.ac.uk/ralf.hinze/publications/With.pdf)
 - [Higher-kinded polymorphism](https://okmij.org/ftp/ML/higher-kind-poly.html#intro)
 - [The appeal of bidirectional type-checking](https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html)
 - [Bi-directional type inference (Hindley-Milner)](https://eli.thegreenplace.net/2018/type-inference/)
