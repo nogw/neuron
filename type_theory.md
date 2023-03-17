@@ -23,6 +23,7 @@
 - [Inductive types and type constraints in the second-order lambda calculus*](https://core.ac.uk/download/pdf/81989173.pdf)
 - [Self Types for Dependently Typed Lambda Encodings](https://homepage.divms.uiowa.edu/~astump/papers/fu-stump-rta-tlca-14.pdf)
 - [Refinement types for ML](cs.cmu.edu/~fp/papers/pldi91.pdf)
+- [Refinement Types: A Tutorial](https://arxiv.org/pdf/2010.07763.pdf)
 
 ---
 
