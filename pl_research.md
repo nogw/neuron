@@ -29,3 +29,7 @@ Links
 
 - [Doo bee doo bee doo (Frank lang)](https://www.researchgate.net/publication/340303217_Doo_bee_doo_bee_doo)
 - [PicoLisp](https://picolisp.com/wiki/-A322.html)
+
+## Videos
+
+- [Efficient Compilation of Algebraic Effect Handlers](https://www.youtube.com/watch?v=tWLPrPfb4_U&t=1566s)
