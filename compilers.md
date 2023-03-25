@@ -23,3 +23,4 @@ A Hybrid Approach to Safe Explicit Memory Management](https://citeseerx.ist.psu.
 - [From System-F to Typed Assembly](https://www.cs.princeton.edu/~dpw/papers/tal-toplas.pdf)
 - [Compilation by Transformation in Non-Strict Functional Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/santos-thesis.pdf)
 - [High-Performance Defunctionalisation in Futhark](https://futhark-lang.org/publications/tfp18.pdf)
+- [Compiling with Continuations and LLVM](https://arxiv.org/pdf/1805.08842.pdf)
