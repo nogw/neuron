@@ -21,3 +21,5 @@ A Hybrid Approach to Safe Explicit Memory Management](https://citeseerx.ist.psu.
 - [(Esoteric slides) Compiling functional languages](https://www.cse.chalmers.se/edu/year/2011/course/CompFun/lecture2.pdf)
 - [The Zinc Experiment: An Economical Implementation of The ML Language](https://caml.inria.fr/pub/papers/xleroy-zinc.pdf)
 - [From System-F to Typed Assembly](https://www.cs.princeton.edu/~dpw/papers/tal-toplas.pdf)
+- [Compilation by Transformation in Non-Strict Functional Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/santos-thesis.pdf)
+- [High-Performance Defunctionalisation in Futhark](https://futhark-lang.org/publications/tfp18.pdf)
