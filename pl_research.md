@@ -27,7 +27,7 @@ Links
 
 ### FP Optimizations
   - [The Effect of Code Expanding Optimizations on Instruction Cache Design](http://impact.crhc.illinois.edu/shared/report/crhc-91-17.icache.pdf)
-
+  - [Defunctionalization: Everybody Does It, Nobody Talks About It](https://blog.sigplan.org/2019/12/30/defunctionalization-everybody-does-it-nobody-talks-about-it/)
 ## Interesting 
 
 - [Doo bee doo bee doo (Frank lang)](https://www.researchgate.net/publication/340303217_Doo_bee_doo_bee_doo)
