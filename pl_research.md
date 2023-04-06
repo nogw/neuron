@@ -16,6 +16,7 @@ Links
 
 ## FP related
 
+- [Type erasure and reification](https://eli.thegreenplace.net/2018/type-erasure-and-reification/)
 - [Compiling Pattern Matching to Good Decision Trees](http://moscova.inria.fr/~maranget/papers/ml05e-maranget.pdf)
 - [Linear Explicit Substitutions](https://www.researchgate.net/profile/Valeria-De-Paiva/publication/2503409_Linear_Explicit_Substitutions/links/0fcfd505c631c267d2000000/Linear-Explicit-Substitutions.pdf)
 - [Explicit substitutions](http://pauillac.inria.fr/~levy/pubs/90popljfp.pdf)
