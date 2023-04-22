@@ -26,10 +26,13 @@ Links
 - [Compiling Lambda Calculus to LLVM](https://compiler.club/compiling-lambda-calculus/)
 - [Warnings for pattern matching](http://moscova.inria.fr/~maranget/papers/warn/index.html)
 - [The Case for Pattern Matching](https://alan-j-hu.github.io/writing/pattern-matching.html)
+- [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://kipp.ly/blog/jits-intro/)
 
 ### FP Optimizations
-  - [The Effect of Code Expanding Optimizations on Instruction Cache Design](http://impact.crhc.illinois.edu/shared/report/crhc-91-17.icache.pdf)
-  - [Defunctionalization: Everybody Does It, Nobody Talks About It](https://blog.sigplan.org/2019/12/30/defunctionalization-everybody-does-it-nobody-talks-about-it/)
+
+- [The Effect of Code Expanding Optimizations on Instruction Cache Design](http://impact.crhc.illinois.edu/shared/report/crhc-91-17.icache.pdf)
+- [Defunctionalization: Everybody Does It, Nobody Talks About It](https://blog.sigplan.org/2019/12/30/defunctionalization-everybody-does-it-nobody-talks-about-it/)
+
 ## Interesting 
 
 - [Doo bee doo bee doo (Frank lang)](https://www.researchgate.net/publication/340303217_Doo_bee_doo_bee_doo)
