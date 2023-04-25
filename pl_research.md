@@ -27,6 +27,7 @@ Links
 - [Warnings for pattern matching](http://moscova.inria.fr/~maranget/papers/warn/index.html)
 - [The Case for Pattern Matching](https://alan-j-hu.github.io/writing/pattern-matching.html)
 - [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://kipp.ly/blog/jits-intro/)
+- [Proving Algebraic Datatypes are “Algebraic”](https://soap.coffee/~lthms/posts/AlgebraicDatatypes.html)
 
 ### FP Optimizations
 
