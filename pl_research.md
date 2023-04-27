@@ -28,6 +28,8 @@ Links
 - [The Case for Pattern Matching](https://alan-j-hu.github.io/writing/pattern-matching.html)
 - [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://kipp.ly/blog/jits-intro/)
 - [Proving Algebraic Datatypes are “Algebraic”](https://soap.coffee/~lthms/posts/AlgebraicDatatypes.html)
+- [F-ing modules](https://people.mpi-sws.org/~rossberg/f-ing/f-ing-jfp.pdf)
+- [1ML – Core and Modules United](https://people.mpi-sws.org/~rossberg/papers/Rossberg%20-%201ML%20--%20Core%20and%20modules%20united%20[JFP].pdf)
 
 ### FP Optimizations
 
