@@ -30,6 +30,12 @@ Links
 - [Proving Algebraic Datatypes are “Algebraic”](https://soap.coffee/~lthms/posts/AlgebraicDatatypes.html)
 - [F-ing modules](https://people.mpi-sws.org/~rossberg/f-ing/f-ing-jfp.pdf)
 - [1ML – Core and Modules United](https://people.mpi-sws.org/~rossberg/papers/Rossberg%20-%201ML%20--%20Core%20and%20modules%20united%20[JFP].pdf)
+- [1ML with Special Effects](https://people.mpi-sws.org/~rossberg/1ml/1ml-effects.pdf)
+- [Mixin’ Up the ML Module System](https://people.mpi-sws.org/~rossberg/mixml/mixml-toplas.pdf)
+- [A modular module system](https://xavierleroy.org/publi/modular-modules-jfp.pdf)
+- [A syntactic theory of type generativity and sharing](https://xavierleroy.org/publi/syntactic-generativity.pdf)
+- [Retrofitting OCaml modules](https://inria.hal.science/hal-03936636v2/file/main.pdf)
+- [From Hindley-Milner Types to First-Class Structures](http://web.cecs.pdx.edu/~mpj/pubs/haskwork95.pdf)
 
 ### FP Optimizations
 
