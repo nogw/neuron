@@ -13,6 +13,7 @@ Links
 - [An introduction to Object-Oriented Calculus (Slides)](https://pages.cpsc.ucalgary.ca/~robin/FMCS/FMCS2014/An%20introduction%20to%20OOC.pdf)
 - [A Theory of Objects](https://www.semanticscholar.org/paper/A-Theory-of-Objects-Abadi-Cardelli/c6c21e3b74aa3411d08cfd5102de5b4d07e62443)
 - [An object-oriented calculus with term constraints](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9D41BDA554D63884652B3E28E1B6405F/S0956796806006174a.pdf/an-object-oriented-calculus-with-term-constraints.pdf)
+- [Efficient implementation of the smalltalk-80 system](https://dl.acm.org/doi/10.1145/800017.800542)
 
 ## FP related
 
