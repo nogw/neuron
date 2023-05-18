@@ -37,6 +37,7 @@ Links
 - [A syntactic theory of type generativity and sharing](https://xavierleroy.org/publi/syntactic-generativity.pdf)
 - [Retrofitting OCaml modules](https://inria.hal.science/hal-03936636v2/file/main.pdf)
 - [From Hindley-Milner Types to First-Class Structures](http://web.cecs.pdx.edu/~mpj/pubs/haskwork95.pdf)
+- [Unification via Explicit Substitutions](https://www.cs.cmu.edu/~fp/papers/INRIA-RR-3591.pdf)
 
 ### FP Optimizations
 
