@@ -26,6 +26,7 @@
 - [Refinement Types: A Tutorial](https://arxiv.org/pdf/2010.07763.pdf)
 - [Raising ML to the Power of System F](http://cambium.inria.fr/~remy/work/mlf/icfp.pdf)
 - [HMF: Simple type inference for first-class polymorphism](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2007-118.pdf)
+- [Lightweight Linear Types in System F](https://www.cis.upenn.edu/~stevez/papers/MZZ10.pdf)
 
 ---
 
