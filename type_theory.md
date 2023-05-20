@@ -30,6 +30,7 @@
 - [Lightweight higher-kinded polymorphism](https://www.cl.cam.ac.uk/~jdy22/papers/lightweight-higher-kinded-polymorphism.pdf)
 - [Graded Modal Dependent Type Theory](https://arxiv.org/abs/2010.13163)
 - [Levity Polymorphism](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/levity-pldi17.pdf)
+- [Linear Haskell](https://arxiv.org/pdf/1710.09756.pdf)
 
 ---
 
