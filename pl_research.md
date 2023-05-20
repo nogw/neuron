@@ -38,6 +38,7 @@ Links
 - [Retrofitting OCaml modules](https://inria.hal.science/hal-03936636v2/file/main.pdf)
 - [From Hindley-Milner Types to First-Class Structures](http://web.cecs.pdx.edu/~mpj/pubs/haskwork95.pdf)
 - [Unification via Explicit Substitutions](https://www.cs.cmu.edu/~fp/papers/INRIA-RR-3591.pdf)
+- [Demonstrating Lambda Calculus Reduction](https://www.cs.cornell.edu/courses/cs6110/2014sp/Handouts/Sestoft.pdf)
 
 ### FP Optimizations
 
