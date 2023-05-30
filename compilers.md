@@ -25,3 +25,5 @@
 - [Compilation by Transformation in Non-Strict Functional Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/santos-thesis.pdf)
 - [High-Performance Defunctionalisation in Futhark](https://futhark-lang.org/publications/tfp18.pdf)
 - [Compiling with Continuations and LLVM](https://arxiv.org/pdf/1805.08842.pdf)
+- [Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/eval-apply.pdf)
+
