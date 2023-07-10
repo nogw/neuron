@@ -33,6 +33,7 @@
 - [Linear Haskell](https://arxiv.org/pdf/1710.09756.pdf)
 - [A tutorial implementation of a dependently typed lambda calculus](https://www.andres-loeh.de/LambdaPi/LambdaPi.pdf)
 - [Refinement Types: A Tutorial](https://arxiv.org/abs/2010.07763)
+- [Sage: Hybrid Checking for Flexible Specifications](http://scheme2006.cs.uchicago.edu/06-freund.pdf)
 
 ---
 
