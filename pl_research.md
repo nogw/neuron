@@ -39,6 +39,7 @@ Links
 - [From Hindley-Milner Types to First-Class Structures](http://web.cecs.pdx.edu/~mpj/pubs/haskwork95.pdf)
 - [Unification via Explicit Substitutions](https://www.cs.cmu.edu/~fp/papers/INRIA-RR-3591.pdf)
 - [Demonstrating Lambda Calculus Reduction](https://www.cs.cornell.edu/courses/cs6110/2014sp/Handouts/Sestoft.pdf)
+- [Trees that Grow](https://www.microsoft.com/en-us/research/uploads/prod/2016/11/trees-that-grow.pdf)
 
 ### FP Optimizations
 
