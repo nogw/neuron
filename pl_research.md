@@ -2,6 +2,7 @@ Links
 
 ## General
 
+- [A Theory of Name Resolution](https://link.springer.com/chapter/10.1007/978-3-662-46669-8_9#preview)
 - [Don’t Mention Equality!](https://existentialtype.wordpress.com/2011/03/15/dont-mention-equality/)
 - [Boolean blindness](https://existentialtype.wordpress.com/2011/03/15/boolean-blindness/)
 - [Locally Nameless](https://boarders.github.io/posts/locally-nameless.html)
