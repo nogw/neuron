@@ -7,6 +7,7 @@
 - [Traits - Composable Units of Behavior](https://scg.unibe.ch/research/traits)
 - [The diamong problem](https://en.wikipedia.org/wiki/Multiple_inheritance#The_diamond_problem)
 - [Prototypes: Object-Orientation, Functionally](http://webyrd.net/scheme_workshop_2021/scheme2021-final91.pdf)
+- [SOLID de verdade – Liskov Substitution Principle (LSP)](https://www.blogdoft.com.br/2020/03/15/solid-de-verdade-liskov-substitution-principle-lsp/)
 
 ### Smalltalk
 
