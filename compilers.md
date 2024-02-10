@@ -13,6 +13,7 @@
 
 ### FP related
 
+- [An Intrinsically Typed Compiler for Algebraic Effect Handlers](https://dl.acm.org/doi/pdf/10.1145/3635800.3636968)
 - [Xavier Leroy, Slides about compilation in fp](https://xavierleroy.org/talks/compilation-agay.pdf)
 - [A Nanopass Framework](https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf)
 - [Compiling with Continuations to LLVM](https://arxiv.org/pdf/1805.08842.pdf)
