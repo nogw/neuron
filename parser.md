@@ -5,3 +5,4 @@
 - [Layout-sensitive Generalized Parsing](https://www.informatik.uni-marburg.de/~seba/projects/sugarj/layout-parsing.pdf)
 - [Parsing Layout, or: Haskell's Syntax is a Mess](https://amelia.how/posts/parsing-layout.html)
 - [Indentation-sensitive parsing for Parsec](https://michaeldadams.org/papers/layout_parsing_2/LayoutParsing2-2014-haskell-authors-copy.pdf)
+- [Resilient LL Parsing Tutorial](https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html)
