@@ -6,6 +6,7 @@
 - [C Compilers Disprove Fermat’s Last Theorem](https://blog.regehr.org/archives/140)
 - [A Hybrid Approach to Safe Explicit Memory Management](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.8030&rep=rep1&type=pdf)
 - [Optimal Heap Limits for Reducing Browser Memory Use](https://arxiv.org/abs/2204.10455)
+- [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
 
 ### IR
 
